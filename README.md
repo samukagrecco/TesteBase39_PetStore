@@ -1,7 +1,5 @@
 # Sobre este documento
 Este documento tem como objetivo a avaliação técnica do Technical Writer e detalha os principais aspectos técnicos de uma API fictícia chamada **Petstore** (que está neste [link](https://petstore3.swagger.io/#/)).
-Este arquivo foi gerado usando a linguagem Markdown; o nome de arquivo contempla o nome do candidato, o objetivo e a data de envio:
-`SamuelSavickas_desafio_06092023.md`.
 
 **Nota**: O conteúdo na íntegra deste repositório também pode ser encontrado no arquivo `SamuelSavickas_desafio_06092023.pdf` (também anexado neste repositório).
 
